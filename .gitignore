@@ -1,0 +1,5 @@
+/model/
+/models/
+*.obj
+/.idea/
+/.ipynb_checkpoints/
